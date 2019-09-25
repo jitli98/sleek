@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Hi! My name is Jit Gan and I'm currently a junior studying Computer Science 
+at the University of Washington. I have experience using JavaScript frameworks
+like Express and NodeJS and have also worked with both SQL and NoSQL Databases.
+As of now, I'm trying to get my feet wet in front end development through the
+REACT framework. 
