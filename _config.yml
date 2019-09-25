@@ -2,7 +2,7 @@
 title: Jit Gan # your site title
 author: Jit Gan # You :P
 description: > # Meta description of Homepage
-baseurl: site.github.url # the subpath of your site, e.g. /blog
+# baseurl:  # the subpath of your site, e.g. /blog
 url: "https://jitli98.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
