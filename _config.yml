@@ -1,24 +1,25 @@
 # SITE CONFIGURATION
-title: Jit Gan # your site title
-author: Jit Gan # You :P
+title: Gerry Gan 
+author: Gerry Gan
 description: > # Meta description of Homepage
 # baseurl:  # the subpath of your site, e.g. /blog
 url: "https://jitli98.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Jit Gan
+  name: Gerry Gan
   links:
     - https://github.com/jitli98
     - https://www.linkedin.com/in/jit-li-g-069970104/
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  # - {name: 'Home', link: '/'}
+  - {name: 'Projects', link: '/categories/#Projects'}
   - {name: 'About', link: '/about'}
 
 tagline: >
-    Hi! I'm Jit.
+    Hi! Welcome to my personal site. 
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
