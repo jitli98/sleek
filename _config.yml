@@ -9,7 +9,7 @@ url: "https://jitli98.github.io/" # the base hostname & protocol for your site, 
 social:
   name: Gerry Gan
   links:
-    - https://github.com/jitli9
+    - https://github.com/jitli98
     - https://www.linkedin.com/in/jit-li-g-069970104/
 
 # THEME SETTINGS
@@ -25,7 +25,7 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 email: jitli98@uw.edu # email for form submission
 
-github_username:  jitli98 # replace with your_github_username or comment to remove link from footer
+github_username:  jitli9 # replace with your_github_username or comment to remove link from footer
 
 # disqus:
 #   shortname: jitgan # to enable comments replace with your_disqus_shortname
